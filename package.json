@@ -1,0 +1,44 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "My Personal Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "backend": "nodemon server.js",
+    "frontend": "npm start --prefix frontend",
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\" ",
+    "start": "node server.js",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "keywords": [
+    "MERN",
+    "MongoDB",
+    "Express",
+    "React.js",
+    "Node.js",
+    "Fullstack"
+  ],
+  "author": "Djair Costa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "4.6.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.8",
+    "react-bootstrap": "^1.6.1",
+    "react-intersection-observer": "^8.32.0",
+    "shrink-ray-current": "^4.1.2",
+    "slug": "^4.0.2"
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0",
+    "nodemon": "^2.0.6"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}

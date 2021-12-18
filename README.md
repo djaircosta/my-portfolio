@@ -1,4 +1,7 @@
-oftware Developers - desenvolvendo uma aplicação e sites completos.Começando com o desenvolvimento de front-end com React.js e backend com node.js, database mongodb no google cloud tudo integrado na nuvem em 
+                                                Software Developers
+
+Desenvolvendo uma aplicação e sites completos.Começando com o desenvolvimento de front-end com React.js e backend com node.js
+database mongodb no google cloud tudo integrado na nuvem em 
 
 
 Tecnologias e estruturas adotadas no my-portfolio.

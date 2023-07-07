@@ -11,5 +11,4 @@ Frontend - React, Hooks, Styled Components, Animação
 Segurança - Autenticação e Autorização por roles
 Banco de dados - MongoDB
 Controle de Versão - Git, GitHub
-Deploy para produção - Heroku
-Uma ótima oportunidade, vem aprender conosco.
+Deploy para produção - Heroku.

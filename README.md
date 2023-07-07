@@ -1,6 +1,6 @@
                                                 Software Developers
 
-Aplicação e sites completos.Começando com o desenvolvimento de front-end com React.js e backend com node.js
+Full Stack aplicação completa.Começando com o desenvolvimento de front-end com React.js e backend com node.js
 database mongodb no google cloud tudo integrado na nuvem.
 
 
